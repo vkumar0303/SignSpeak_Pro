@@ -1,0 +1,47 @@
+INFO:ai_processor:Groq API initialized successfully with model: llama-3.3-70b-versatile
+INFO:root:✅ Groq fallback enabled
+INFO:root:✅ Ollama available with model: deepseek-r1:1.5b
+INFO:root:✅ RAG Processor initialized
+INFO:root:   PDF support: ✅
+INFO:root:   DOCX support: ✅
+INFO:root:   Embedding support: ✅
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1763292590.364476   24854 gl_context.cc:369] GL version: 2.1 (2.1 Metal - 88.1), renderer: Apple M1
+
+============================================================
+🎉 SignSpeak AI-Enhanced Sign Language Translator
+============================================================
+✅ AI Translation: Groq (llama-3.3-70b-versatile) - Enhanced translations
+✅ Q&A System: Ollama (deepseek-r1:1.5b) + Groq fallback - Ready to answer questions!
+
+📍 Server starting at: http://127.0.0.1:5000
+🔧 Press CTRL+C to quit
+============================================================
+
+ * Serving Flask app 'app'
+ * Debug mode: on
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+W0000 00:00:1763292590.406306   25154 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+W0000 00:00:1763292590.416444   25153 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+INFO:ai_processor:Groq API initialized successfully with model: llama-3.3-70b-versatile
+INFO:root:✅ Groq fallback enabled
+INFO:root:✅ Ollama available with model: deepseek-r1:1.5b
+INFO:root:✅ RAG Processor initialized
+INFO:root:   PDF support: ✅
+INFO:root:   DOCX support: ✅
+INFO:root:   Embedding support: ✅
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1763292597.414266   25164 gl_context.cc:369] GL version: 2.1 (2.1 Metal - 88.1), renderer: Apple M1
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+W0000 00:00:1763292597.435824   25401 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+WARNING:werkzeug: * Debugger is active!
+W0000 00:00:1763292597.474071   25401 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+INFO:werkzeug: * Debugger PIN: 690-877-664
+/opt/anaconda3/lib/python3.11/multiprocessing/resource_tracker.py:254: UserWarning: resource_tracker: There appear to be 1 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
+/opt/anaconda3/lib/python3.11/multiprocessing/resource_tracker.py:254: UserWarning: resource_tracker: There appear to be 1 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
