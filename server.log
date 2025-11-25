@@ -1,0 +1,39 @@
+INFO:ai_processor:Groq API initialized successfully with model: llama-3.3-70b-versatile
+INFO:root:✅ Groq fallback enabled
+INFO:root:✅ Ollama available with model: deepseek-r1:1.5b
+INFO:root:✅ RAG Processor initialized
+INFO:root:   PDF support: ✅
+INFO:root:   DOCX support: ✅
+INFO:root:   Embedding support: ✅
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1763391014.424719       1 gl_context.cc:344] GL version: 2.1 (2.1 Metal - 88.1), renderer: Apple M1
+
+============================================================
+🎉 SignSpeak AI-Enhanced Sign Language Translator
+============================================================
+✅ AI Translation: Groq (llama-3.3-70b-versatile) - Enhanced translations
+✅ Q&A System: Ollama (deepseek-r1:1.5b) + Groq fallback - Ready to answer questions!
+
+📍 Server starting at: http://127.0.0.1:5001
+🔧 Press CTRL+C to quit
+============================================================
+
+ * Serving Flask app 'app'
+ * Debug mode: on
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:ai_processor:Groq API initialized successfully with model: llama-3.3-70b-versatile
+INFO:root:✅ Groq fallback enabled
+INFO:root:✅ Ollama available with model: deepseek-r1:1.5b
+INFO:root:✅ RAG Processor initialized
+INFO:root:   PDF support: ✅
+INFO:root:   DOCX support: ✅
+INFO:root:   Embedding support: ✅
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1763391016.336155       1 gl_context.cc:344] GL version: 2.1 (2.1 Metal - 88.1), renderer: Apple M1
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 519-576-329
